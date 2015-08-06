@@ -9,10 +9,10 @@ data目录下存放预处理后数据
 charts目录下存放可视化结果
 
 代码托管于github
-https://github.com/qiangsiwei/EMC_competition
+https://github.com/guochengc422/EMC-Competition
 
 数据托管于ckan
 http://data.sjtu.edu.cn/dataset/emc-competition
 
 可视化地址
-http://htmlpreview.github.com/?https://github.com/qiangsiwei/EMC_competition/blob/master/index.html
+http://htmlpreview.github.com/?https://github.com/guochengc422/EMC-Competition/blob/master/index.html
