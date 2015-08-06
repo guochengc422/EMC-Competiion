@@ -16,3 +16,6 @@ http://data.sjtu.edu.cn/dataset/emc-competition
 
 可视化地址
 http://htmlpreview.github.com/?https://github.com/guochengc422/EMC-Competition/blob/master/index.html
+
+参赛演讲Prezi
+https://prezi.com/7n70co5thc8m/
